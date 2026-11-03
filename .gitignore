@@ -1,0 +1,23 @@
+# Ignore all large data files
+data/Particle positions 2/
+
+# Ignore velocity field data
+data/Weekly velocity fields/
+
+# Ignore FTLE extracted data
+data/FTLE extracted 2/
+
+# Ignore results images
+results 2/LCS images 2/
+
+
+
+# Python clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini

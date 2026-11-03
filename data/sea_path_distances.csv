@@ -1,0 +1,1276 @@
+site_a,site_b,sea_km,straight_km,snap_a_km,snap_b_km
+Oysterh'n,Sherkin W,88.41,71.83,0.0,0.0
+Oysterh'n,Sherkin E,95.92,65.95,0.0,2.71
+Oysterh'n,Roaringw.,94.18,69.95,0.0,0.0
+Oysterh'n,Dunmanus,126.23,90.9,0.0,0.0
+Oysterh'n,Bantry A,158.22,70.49,0.0,0.0
+Oysterh'n,Bantry B,160.05,69.22,0.0,0.0
+Oysterh'n,Bantry C,159.61,70.41,0.0,0.0
+Oysterh'n,Bantry D,159.73,70.82,0.0,0.0
+Oysterh'n,Bantry E,156.66,74.9,0.0,0.0
+Oysterh'n,Bantry F,140.55,87.29,0.0,0.0
+Oysterh'n,Bantry G,139.04,95.06,0.0,0.0
+Oysterh'n,Kenmare A,181.49,102.19,0.0,0.0
+Oysterh'n,Kenmare B,187.04,97.71,0.0,0.0
+Oysterh'n,Kenmare C,190.39,95.34,0.0,0.0
+Oysterh'n,Kenmare D,205.02,86.59,0.0,0.0
+Oysterh'n,Kenmare E,193.39,95.46,0.0,0.0
+Oysterh'n,Valentia,198.3,131.79,0.0,0.0
+Oysterh'n,Dingle,243.87,108.3,0.0,0.0
+Oysterh'n,Tralee,266.29,124.47,0.0,0.0
+Oysterh'n,Ballylong.,307.78,124.87,0.0,0.0
+Oysterh'n,Poulnas'y,314.75,131.75,0.0,0.0
+Oysterh'n,Carrigaholt,302.27,131.66,0.0,0.0
+Oysterh'n,Ballyv.,372.13,167.48,0.0,0.0
+Oysterh'n,Aughinish,378.61,168.24,0.0,0.17
+Oysterh'n,Kinvarra,385.53,168.12,0.0,0.0
+Oysterh'n,Clarinb.,385.31,172.06,0.0,0.0
+Oysterh'n,Tawin,383.76,174.18,0.0,0.0
+Oysterh'n,Kilkieran,363.59,201.78,0.0,0.0
+Oysterh'n,Clifden S,373.64,225.78,0.0,0.0
+Oysterh'n,Clifden M,374.37,229.51,0.0,0.0
+Oysterh'n,Clifden N,376.24,233.68,0.0,0.0
+Oysterh'n,Ballynakill,390.07,237.19,0.0,0.0
+Oysterh'n,Killary I,412.16,230.74,0.0,0.0
+Oysterh'n,Killary M,409.54,232.62,0.0,0.0
+Oysterh'n,Killary O,406.77,234.51,0.0,0.0
+Oysterh'n,Clew S,431.25,249.46,0.0,0.0
+Oysterh'n,Clew N,431.24,258.58,0.0,0.0
+Oysterh'n,Achill S,464.02,264.3,0.0,0.0
+Oysterh'n,Achill N,448.59,278.35,0.0,0.0
+Oysterh'n,Blacksod,451.75,294.22,0.0,0.0
+Oysterh'n,Kilalla,533.09,285.66,0.0,0.0
+Oysterh'n,Sligo,568.29,289.98,0.0,0.0
+Oysterh'n,Drumcliff,565.26,294.44,0.0,0.0
+Oysterh'n,Donegal E,602.23,325.72,0.0,0.0
+Oysterh'n,Donegal W,588.95,325.33,0.0,0.0
+Oysterh'n,Gweebarra S,590.68,344.13,0.0,0.0
+Oysterh'n,Gweebarra M,606.11,352.57,0.0,0.0
+Oysterh'n,Gweebarra N,608.43,355.1,0.0,0.0
+Oysterh'n,Dungloe,611.23,363.15,0.0,0.0
+Oysterh'n,Gweedore,624.51,376.96,0.0,0.0
+Sherkin W,Sherkin E,7.76,6.4,0.0,2.71
+Sherkin W,Roaringw.,6.27,5.3,0.0,0.0
+Sherkin W,Dunmanus,44.49,22.26,0.0,0.0
+Sherkin W,Bantry A,76.48,22.36,0.0,0.0
+Sherkin W,Bantry B,78.3,23.4,0.0,0.0
+Sherkin W,Bantry C,77.87,24.93,0.0,0.0
+Sherkin W,Bantry D,77.99,25.72,0.0,0.0
+Sherkin W,Bantry E,74.92,27.87,0.0,0.0
+Sherkin W,Bantry F,58.81,28.4,0.0,0.0
+Sherkin W,Bantry G,57.3,32.55,0.0,0.0
+Sherkin W,Kenmare A,99.75,45.13,0.0,0.0
+Sherkin W,Kenmare B,105.3,42.5,0.0,0.0
+Sherkin W,Kenmare C,108.65,42.18,0.0,0.0
+Sherkin W,Kenmare D,123.28,44.41,0.0,0.0
+Sherkin W,Kenmare E,111.64,45.84,0.0,0.0
+Sherkin W,Valentia,116.56,79.49,0.0,0.0
+Sherkin W,Dingle,162.13,78.64,0.0,0.0
+Sherkin W,Tralee,184.55,99.84,0.0,0.0
+Sherkin W,Ballylong.,226.03,121.75,0.0,0.0
+Sherkin W,Poulnas'y,233.01,130.73,0.0,0.0
+Sherkin W,Carrigaholt,220.53,125.67,0.0,0.0
+Sherkin W,Ballyv.,290.38,184.18,0.0,0.0
+Sherkin W,Aughinish,296.87,187.85,0.0,0.17
+Sherkin W,Kinvarra,303.79,189.87,0.0,0.0
+Sherkin W,Clarinb.,303.57,193.35,0.0,0.0
+Sherkin W,Tawin,302.02,194.59,0.0,0.0
+Sherkin W,Kilkieran,281.85,206.47,0.0,0.0
+Sherkin W,Clifden S,291.9,223.84,0.0,0.0
+Sherkin W,Clifden M,292.63,227.58,0.0,0.0
+Sherkin W,Clifden N,294.5,231.41,0.0,0.0
+Sherkin W,Ballynakill,308.32,237.31,0.0,0.0
+Sherkin W,Killary I,330.42,236.28,0.0,0.0
+Sherkin W,Killary M,327.8,237.65,0.0,0.0
+Sherkin W,Killary O,325.03,239.02,0.0,0.0
+Sherkin W,Clew S,349.51,259.05,0.0,0.0
+Sherkin W,Clew N,349.5,267.38,0.0,0.0
+Sherkin W,Achill S,382.28,269.31,0.0,0.0
+Sherkin W,Achill N,366.85,284.28,0.0,0.0
+Sherkin W,Blacksod,370.01,299.5,0.0,0.0
+Sherkin W,Kilalla,451.35,304.77,0.0,0.0
+Sherkin W,Sligo,486.55,318.22,0.0,0.0
+Sherkin W,Drumcliff,483.52,322.04,0.0,0.0
+Sherkin W,Donegal E,520.49,357.2,0.0,0.0
+Sherkin W,Donegal W,507.21,354.33,0.0,0.0
+Sherkin W,Gweebarra S,508.94,371.16,0.0,0.0
+Sherkin W,Gweebarra M,524.36,381.42,0.0,0.0
+Sherkin W,Gweebarra N,526.69,384.05,0.0,0.0
+Sherkin W,Dungloe,529.49,391.66,0.0,0.0
+Sherkin W,Gweedore,542.77,406.14,0.0,0.0
+Sherkin E,Roaringw.,2.23,4.59,2.71,0.0
+Sherkin E,Dunmanus,49.99,26.25,2.71,0.0
+Sherkin E,Bantry A,81.98,19.44,2.71,0.0
+Sherkin E,Bantry B,83.8,20.09,2.71,0.0
+Sherkin E,Bantry C,83.36,21.84,2.71,0.0
+Sherkin E,Bantry D,83.48,22.67,2.71,0.0
+Sherkin E,Bantry E,80.42,25.61,2.71,0.0
+Sherkin E,Bantry F,64.31,29.29,2.71,0.0
+Sherkin E,Bantry G,62.79,34.74,2.71,0.0
+Sherkin E,Kenmare A,105.24,46.43,2.71,0.0
+Sherkin E,Kenmare B,110.8,43.28,2.71,0.0
+Sherkin E,Kenmare C,114.15,42.5,2.71,0.0
+Sherkin E,Kenmare D,128.77,42.75,2.71,0.0
+Sherkin E,Kenmare E,117.14,45.62,2.71,0.0
+Sherkin E,Valentia,122.06,80.72,2.71,0.0
+Sherkin E,Dingle,167.62,76.65,2.71,0.0
+Sherkin E,Tralee,190.04,97.75,2.71,0.0
+Sherkin E,Ballylong.,231.53,118.03,2.71,0.0
+Sherkin E,Poulnas'y,238.51,126.94,2.71,0.0
+Sherkin E,Carrigaholt,226.03,122.21,2.71,0.0
+Sherkin E,Ballyv.,295.88,179.55,2.71,0.0
+Sherkin E,Aughinish,302.37,183.06,2.71,0.17
+Sherkin E,Kinvarra,309.28,184.97,2.71,0.0
+Sherkin E,Clarinb.,309.07,188.48,2.71,0.0
+Sherkin E,Tawin,307.52,189.79,2.71,0.0
+Sherkin E,Kilkieran,287.34,202.76,2.71,0.0
+Sherkin E,Clifden S,297.4,220.71,2.71,0.0
+Sherkin E,Clifden M,298.13,224.47,2.71,0.0
+Sherkin E,Clifden N,300.0,228.34,2.71,0.0
+Sherkin E,Ballynakill,313.82,234.07,2.71,0.0
+Sherkin E,Killary I,335.91,232.62,2.71,0.0
+Sherkin E,Killary M,333.3,234.04,2.71,0.0
+Sherkin E,Killary O,330.52,235.44,2.71,0.0
+Sherkin E,Clew S,355.01,255.16,2.71,0.0
+Sherkin E,Clew N,355.0,263.58,2.71,0.0
+Sherkin E,Achill S,387.77,265.79,2.71,0.0
+Sherkin E,Achill N,372.35,280.72,2.71,0.0
+Sherkin E,Blacksod,375.5,296.02,2.71,0.0
+Sherkin E,Kilalla,456.84,300.33,2.71,0.0
+Sherkin E,Sligo,492.05,313.24,2.71,0.0
+Sherkin E,Drumcliff,489.01,317.09,2.71,0.0
+Sherkin E,Donegal E,525.99,352.07,2.71,0.0
+Sherkin E,Donegal W,512.7,349.34,2.71,0.0
+Sherkin E,Gweebarra S,514.44,366.3,2.71,0.0
+Sherkin E,Gweebarra M,529.86,376.47,2.71,0.0
+Sherkin E,Gweebarra N,532.19,379.09,2.71,0.0
+Sherkin E,Dungloe,534.98,386.73,2.71,0.0
+Sherkin E,Gweedore,548.27,401.19,2.71,0.0
+Roaringw.,Dunmanus,47.76,21.73,0.0,0.0
+Roaringw.,Bantry A,79.75,17.17,0.0,0.0
+Roaringw.,Bantry B,81.57,18.15,0.0,0.0
+Roaringw.,Bantry C,81.13,19.72,0.0,0.0
+Roaringw.,Bantry D,81.25,20.52,0.0,0.0
+Roaringw.,Bantry E,78.19,22.89,0.0,0.0
+Roaringw.,Bantry F,62.08,25.07,0.0,0.0
+Roaringw.,Bantry G,60.56,30.24,0.0,0.0
+Roaringw.,Kenmare A,103.01,42.14,0.0,0.0
+Roaringw.,Kenmare B,108.57,39.14,0.0,0.0
+Roaringw.,Kenmare C,111.92,38.52,0.0,0.0
+Roaringw.,Kenmare D,126.55,39.71,0.0,0.0
+Roaringw.,Kenmare E,114.91,41.86,0.0,0.0
+Roaringw.,Valentia,119.83,76.49,0.0,0.0
+Roaringw.,Dingle,165.4,73.86,0.0,0.0
+Roaringw.,Tralee,187.82,95.03,0.0,0.0
+Roaringw.,Ballylong.,229.3,116.51,0.0,0.0
+Roaringw.,Poulnas'y,236.28,125.48,0.0,0.0
+Roaringw.,Carrigaholt,223.8,120.47,0.0,0.0
+Roaringw.,Ballyv.,293.65,178.88,0.0,0.0
+Roaringw.,Aughinish,300.14,182.56,0.0,0.17
+Roaringw.,Kinvarra,307.05,184.59,0.0,0.0
+Roaringw.,Clarinb.,306.84,188.07,0.0,0.0
+Roaringw.,Tawin,305.29,189.31,0.0,0.0
+Roaringw.,Kilkieran,285.11,201.23,0.0,0.0
+Roaringw.,Clifden S,295.17,218.72,0.0,0.0
+Roaringw.,Clifden M,295.9,222.47,0.0,0.0
+Roaringw.,Clifden N,297.77,226.31,0.0,0.0
+Roaringw.,Ballynakill,311.59,232.17,0.0,0.0
+Roaringw.,Killary I,333.68,231.05,0.0,0.0
+Roaringw.,Killary M,331.07,232.44,0.0,0.0
+Roaringw.,Killary O,328.29,233.81,0.0,0.0
+Roaringw.,Clew S,352.78,253.79,0.0,0.0
+Roaringw.,Clew N,352.77,262.14,0.0,0.0
+Roaringw.,Achill S,385.54,264.11,0.0,0.0
+Roaringw.,Achill N,370.12,279.08,0.0,0.0
+Roaringw.,Blacksod,373.27,294.31,0.0,0.0
+Roaringw.,Kilalla,454.61,299.47,0.0,0.0
+Roaringw.,Sligo,489.82,312.96,0.0,0.0
+Roaringw.,Drumcliff,486.78,316.77,0.0,0.0
+Roaringw.,Donegal E,523.76,351.96,0.0,0.0
+Roaringw.,Donegal W,510.47,349.06,0.0,0.0
+Roaringw.,Gweebarra S,512.21,365.87,0.0,0.0
+Roaringw.,Gweebarra M,527.63,376.15,0.0,0.0
+Roaringw.,Gweebarra N,529.96,378.78,0.0,0.0
+Roaringw.,Dungloe,532.75,386.38,0.0,0.0
+Roaringw.,Gweedore,546.04,400.87,0.0,0.0
+Dunmanus,Bantry A,44.02,24.64,0.0,0.0
+Dunmanus,Bantry B,45.84,26.35,0.0,0.0
+Dunmanus,Bantry C,45.41,26.45,0.0,0.0
+Dunmanus,Bantry D,45.52,26.71,0.0,0.0
+Dunmanus,Bantry E,42.46,25.27,0.0,0.0
+Dunmanus,Bantry F,26.35,14.66,0.0,0.0
+Dunmanus,Bantry G,24.84,13.17,0.0,0.0
+Dunmanus,Kenmare A,70.24,26.55,0.0,0.0
+Dunmanus,Kenmare B,75.8,25.63,0.0,0.0
+Dunmanus,Kenmare C,79.15,26.74,0.0,0.0
+Dunmanus,Kenmare D,93.78,35.11,0.0,0.0
+Dunmanus,Kenmare E,82.14,31.54,0.0,0.0
+Dunmanus,Valentia,87.06,59.76,0.0,0.0
+Dunmanus,Dingle,132.63,67.5,0.0,0.0
+Dunmanus,Tralee,155.05,88.31,0.0,0.0
+Dunmanus,Ballylong.,196.53,115.72,0.0,0.0
+Dunmanus,Poulnas'y,203.51,124.78,0.0,0.0
+Dunmanus,Carrigaholt,191.03,118.44,0.0,0.0
+Dunmanus,Ballyv.,260.88,181.36,0.0,0.0
+Dunmanus,Aughinish,267.37,185.81,0.0,0.17
+Dunmanus,Kinvarra,274.28,188.44,0.0,0.0
+Dunmanus,Clarinb.,274.07,191.67,0.0,0.0
+Dunmanus,Tawin,272.52,192.61,0.0,0.0
+Dunmanus,Kilkieran,252.34,199.36,0.0,0.0
+Dunmanus,Clifden S,262.4,214.39,0.0,0.0
+Dunmanus,Clifden M,263.13,218.07,0.0,0.0
+Dunmanus,Clifden N,265.0,221.73,0.0,0.0
+Dunmanus,Ballynakill,278.82,228.22,0.0,0.0
+Dunmanus,Killary I,300.91,228.8,0.0,0.0
+Dunmanus,Killary M,298.3,230.01,0.0,0.0
+Dunmanus,Killary O,295.52,231.19,0.0,0.0
+Dunmanus,Clew S,320.01,252.4,0.0,0.0
+Dunmanus,Clew N,320.0,260.38,0.0,0.0
+Dunmanus,Achill S,352.78,261.16,0.0,0.0
+Dunmanus,Achill N,337.35,276.21,0.0,0.0
+Dunmanus,Blacksod,340.5,291.06,0.0,0.0
+Dunmanus,Kilalla,421.84,300.43,0.0,0.0
+Dunmanus,Sligo,457.05,316.62,0.0,0.0
+Dunmanus,Drumcliff,454.01,320.19,0.0,0.0
+Dunmanus,Donegal E,490.99,356.31,0.0,0.0
+Dunmanus,Donegal W,477.7,352.64,0.0,0.0
+Dunmanus,Gweebarra S,479.44,368.71,0.0,0.0
+Dunmanus,Gweebarra M,494.86,379.49,0.0,0.0
+Dunmanus,Gweebarra N,497.19,382.13,0.0,0.0
+Dunmanus,Dungloe,499.99,389.54,0.0,0.0
+Dunmanus,Gweedore,513.27,404.16,0.0,0.0
+Bantry A,Bantry B,1.83,1.71,0.0,0.0
+Bantry A,Bantry C,2.7,2.6,0.0,0.0
+Bantry A,Bantry D,3.63,3.36,0.0,0.0
+Bantry A,Bantry E,7.9,6.45,0.0,0.0
+Bantry A,Bantry F,18.29,16.83,0.0,0.0
+Bantry A,Bantry G,26.65,24.77,0.0,0.0
+Bantry A,Kenmare A,93.18,32.37,0.0,0.0
+Bantry A,Kenmare B,98.74,28.22,0.0,0.0
+Bantry A,Kenmare C,102.09,26.48,0.0,0.0
+Bantry A,Kenmare D,116.72,23.67,0.0,0.0
+Bantry A,Kenmare E,105.08,28.35,0.0,0.0
+Bantry A,Valentia,110.0,65.11,0.0,0.0
+Bantry A,Dingle,155.57,57.24,0.0,0.0
+Bantry A,Tralee,177.99,78.32,0.0,0.0
+Bantry A,Ballylong.,219.47,99.41,0.0,0.0
+Bantry A,Poulnas'y,226.45,108.4,0.0,0.0
+Bantry A,Carrigaholt,213.97,103.31,0.0,0.0
+Bantry A,Ballyv.,283.82,162.4,0.0,0.0
+Bantry A,Aughinish,290.31,166.27,0.0,0.17
+Bantry A,Kinvarra,297.22,168.48,0.0,0.0
+Bantry A,Clarinb.,297.01,171.89,0.0,0.0
+Bantry A,Tawin,295.46,173.04,0.0,0.0
+Bantry A,Kilkieran,275.28,184.12,0.0,0.0
+Bantry A,Clifden S,285.34,201.56,0.0,0.0
+Bantry A,Clifden M,286.07,205.31,0.0,0.0
+Bantry A,Clifden N,287.94,209.16,0.0,0.0
+Bantry A,Ballynakill,301.76,215.0,0.0,0.0
+Bantry A,Killary I,323.85,213.92,0.0,0.0
+Bantry A,Killary M,321.24,215.3,0.0,0.0
+Bantry A,Killary O,318.46,216.66,0.0,0.0
+Bantry A,Clew S,342.95,236.73,0.0,0.0
+Bantry A,Clew N,342.94,245.05,0.0,0.0
+Bantry A,Achill S,375.71,246.95,0.0,0.0
+Bantry A,Achill N,360.29,261.92,0.0,0.0
+Bantry A,Blacksod,363.44,277.15,0.0,0.0
+Bantry A,Kilalla,444.78,282.75,0.0,0.0
+Bantry A,Sligo,479.99,296.89,0.0,0.0
+Bantry A,Drumcliff,476.95,300.64,0.0,0.0
+Bantry A,Donegal E,513.93,336.12,0.0,0.0
+Bantry A,Donegal W,500.64,332.99,0.0,0.0
+Bantry A,Gweebarra S,502.38,349.6,0.0,0.0
+Bantry A,Gweebarra M,517.8,360.02,0.0,0.0
+Bantry A,Gweebarra N,520.13,362.65,0.0,0.0
+Bantry A,Dungloe,522.92,370.2,0.0,0.0
+Bantry A,Gweedore,536.21,384.73,0.0,0.0
+Bantry B,Bantry C,2.54,1.86,0.0,0.0
+Bantry B,Bantry D,3.47,2.69,0.0,0.0
+Bantry B,Bantry E,8.08,6.67,0.0,0.0
+Bantry B,Bantry F,20.11,18.22,0.0,0.0
+Bantry B,Bantry G,28.47,26.22,0.0,0.0
+Bantry B,Kenmare A,95.01,33.37,0.0,0.0
+Bantry B,Kenmare B,100.56,29.13,0.0,0.0
+Bantry B,Kenmare C,103.92,27.24,0.0,0.0
+Bantry B,Kenmare D,118.54,23.57,0.0,0.0
+Bantry B,Kenmare E,106.91,28.84,0.0,0.0
+Bantry B,Valentia,111.82,65.75,0.0,0.0
+Bantry B,Dingle,157.39,56.8,0.0,0.0
+Bantry B,Tralee,179.81,77.8,0.0,0.0
+Bantry B,Ballylong.,221.3,98.36,0.0,0.0
+Bantry B,Poulnas'y,228.28,107.33,0.0,0.0
+Bantry B,Carrigaholt,215.79,102.34,0.0,0.0
+Bantry B,Ballyv.,285.65,161.09,0.0,0.0
+Bantry B,Aughinish,292.14,164.93,0.0,0.17
+Bantry B,Kinvarra,299.05,167.1,0.0,0.0
+Bantry B,Clarinb.,298.83,170.52,0.0,0.0
+Bantry B,Tawin,297.29,171.69,0.0,0.0
+Bantry B,Kilkieran,277.11,183.08,0.0,0.0
+Bantry B,Clifden S,287.17,200.7,0.0,0.0
+Bantry B,Clifden M,287.89,204.45,0.0,0.0
+Bantry B,Clifden N,289.76,208.31,0.0,0.0
+Bantry B,Ballynakill,303.59,214.1,0.0,0.0
+Bantry B,Killary I,325.68,212.9,0.0,0.0
+Bantry B,Killary M,323.07,214.29,0.0,0.0
+Bantry B,Killary O,320.29,215.66,0.0,0.0
+Bantry B,Clew S,344.77,235.64,0.0,0.0
+Bantry B,Clew N,344.76,243.99,0.0,0.0
+Bantry B,Achill S,377.54,245.98,0.0,0.0
+Bantry B,Achill N,362.11,260.94,0.0,0.0
+Bantry B,Blacksod,365.27,276.18,0.0,0.0
+Bantry B,Kilalla,446.61,281.52,0.0,0.0
+Bantry B,Sligo,481.81,295.51,0.0,0.0
+Bantry B,Drumcliff,478.78,299.26,0.0,0.0
+Bantry B,Donegal E,515.75,334.7,0.0,0.0
+Bantry B,Donegal W,502.47,331.61,0.0,0.0
+Bantry B,Gweebarra S,504.2,348.26,0.0,0.0
+Bantry B,Gweebarra M,519.63,358.65,0.0,0.0
+Bantry B,Gweebarra N,521.96,361.28,0.0,0.0
+Bantry B,Dungloe,524.75,368.84,0.0,0.0
+Bantry B,Gweedore,538.04,383.37,0.0,0.0
+Bantry C,Bantry D,0.93,0.84,0.0,0.0
+Bantry C,Bantry E,5.54,4.93,0.0,0.0
+Bantry C,Bantry F,19.67,17.33,0.0,0.0
+Bantry C,Bantry G,28.03,25.4,0.0,0.0
+Bantry C,Kenmare A,94.57,31.96,0.0,0.0
+Bantry C,Kenmare B,100.13,27.65,0.0,0.0
+Bantry C,Kenmare C,103.48,25.67,0.0,0.0
+Bantry C,Kenmare D,118.1,21.71,0.0,0.0
+Bantry C,Kenmare E,106.47,27.12,0.0,0.0
+Bantry C,Valentia,111.39,64.08,0.0,0.0
+Bantry C,Dingle,156.95,54.97,0.0,0.0
+Bantry C,Tralee,179.37,75.99,0.0,0.0
+Bantry C,Ballylong.,220.86,96.83,0.0,0.0
+Bantry C,Poulnas'y,227.84,105.81,0.0,0.0
+Bantry C,Carrigaholt,215.35,100.75,0.0,0.0
+Bantry C,Ballyv.,285.21,159.81,0.0,0.0
+Bantry C,Aughinish,291.7,163.7,0.0,0.17
+Bantry C,Kinvarra,298.61,165.92,0.0,0.0
+Bantry C,Clarinb.,298.4,169.32,0.0,0.0
+Bantry C,Tawin,296.85,170.47,0.0,0.0
+Bantry C,Kilkieran,276.67,181.54,0.0,0.0
+Bantry C,Clifden S,286.73,199.04,0.0,0.0
+Bantry C,Clifden M,287.46,202.79,0.0,0.0
+Bantry C,Clifden N,289.33,206.64,0.0,0.0
+Bantry C,Ballynakill,303.15,212.46,0.0,0.0
+Bantry C,Killary I,325.24,211.34,0.0,0.0
+Bantry C,Killary M,322.63,212.72,0.0,0.0
+Bantry C,Killary O,319.85,214.09,0.0,0.0
+Bantry C,Clew S,344.33,234.14,0.0,0.0
+Bantry C,Clew N,344.32,242.46,0.0,0.0
+Bantry C,Achill S,377.1,244.39,0.0,0.0
+Bantry C,Achill N,361.68,259.36,0.0,0.0
+Bantry C,Blacksod,364.83,274.59,0.0,0.0
+Bantry C,Kilalla,446.17,280.16,0.0,0.0
+Bantry C,Sligo,481.38,294.33,0.0,0.0
+Bantry C,Drumcliff,478.34,298.07,0.0,0.0
+Bantry C,Donegal E,515.32,333.57,0.0,0.0
+Bantry C,Donegal W,502.03,330.42,0.0,0.0
+Bantry C,Gweebarra S,503.76,347.02,0.0,0.0
+Bantry C,Gweebarra M,519.19,357.45,0.0,0.0
+Bantry C,Gweebarra N,521.52,360.08,0.0,0.0
+Bantry C,Dungloe,524.31,367.63,0.0,0.0
+Bantry C,Gweedore,537.6,382.16,0.0,0.0
+Bantry D,Bantry E,5.04,4.28,0.0,0.0
+Bantry D,Bantry F,19.79,17.14,0.0,0.0
+Bantry D,Bantry G,28.15,25.24,0.0,0.0
+Bantry D,Kenmare A,94.69,31.48,0.0,0.0
+Bantry D,Kenmare B,100.25,27.12,0.0,0.0
+Bantry D,Kenmare C,103.6,25.08,0.0,0.0
+Bantry D,Kenmare D,118.22,20.89,0.0,0.0
+Bantry D,Kenmare E,106.59,26.43,0.0,0.0
+Bantry D,Valentia,111.51,63.42,0.0,0.0
+Bantry D,Dingle,157.07,54.13,0.0,0.0
+Bantry D,Tralee,179.49,75.15,0.0,0.0
+Bantry D,Ballylong.,220.98,96.05,0.0,0.0
+Bantry D,Poulnas'y,227.96,105.04,0.0,0.0
+Bantry D,Carrigaholt,215.47,99.95,0.0,0.0
+Bantry D,Ballyv.,285.33,159.12,0.0,0.0
+Bantry D,Aughinish,291.82,163.03,0.0,0.17
+Bantry D,Kinvarra,298.73,165.26,0.0,0.0
+Bantry D,Clarinb.,298.52,168.66,0.0,0.0
+Bantry D,Tawin,296.97,169.8,0.0,0.0
+Bantry D,Kilkieran,276.79,180.76,0.0,0.0
+Bantry D,Clifden S,286.85,198.22,0.0,0.0
+Bantry D,Clifden M,287.58,201.98,0.0,0.0
+Bantry D,Clifden N,289.44,205.83,0.0,0.0
+Bantry D,Ballynakill,303.27,211.65,0.0,0.0
+Bantry D,Killary I,325.36,210.56,0.0,0.0
+Bantry D,Killary M,322.75,211.94,0.0,0.0
+Bantry D,Killary O,319.97,213.3,0.0,0.0
+Bantry D,Clew S,344.45,233.37,0.0,0.0
+Bantry D,Clew N,344.44,241.69,0.0,0.0
+Bantry D,Achill S,377.22,243.6,0.0,0.0
+Bantry D,Achill N,361.79,258.56,0.0,0.0
+Bantry D,Blacksod,364.95,273.79,0.0,0.0
+Bantry D,Kilalla,446.29,279.44,0.0,0.0
+Bantry D,Sligo,481.5,293.68,0.0,0.0
+Bantry D,Drumcliff,478.46,297.41,0.0,0.0
+Bantry D,Donegal E,515.43,332.94,0.0,0.0
+Bantry D,Donegal W,502.15,329.77,0.0,0.0
+Bantry D,Gweebarra S,503.88,346.35,0.0,0.0
+Bantry D,Gweebarra M,519.31,356.79,0.0,0.0
+Bantry D,Gweebarra N,521.64,359.42,0.0,0.0
+Bantry D,Dungloe,524.43,366.96,0.0,0.0
+Bantry D,Gweedore,537.72,381.5,0.0,0.0
+Bantry E,Bantry F,16.73,13.9,0.0,0.0
+Bantry E,Bantry G,25.09,21.96,0.0,0.0
+Bantry E,Kenmare A,91.63,27.31,0.0,0.0
+Bantry E,Kenmare B,97.18,22.91,0.0,0.0
+Bantry E,Kenmare C,100.53,20.82,0.0,0.0
+Bantry E,Kenmare D,115.16,17.25,0.0,0.0
+Bantry E,Kenmare E,103.52,22.19,0.0,0.0
+Bantry E,Valentia,108.44,59.15,0.0,0.0
+Bantry E,Dingle,154.01,51.06,0.0,0.0
+Bantry E,Tralee,176.43,72.2,0.0,0.0
+Bantry E,Ballylong.,217.91,94.42,0.0,0.0
+Bantry E,Poulnas'y,224.89,103.45,0.0,0.0
+Bantry E,Carrigaholt,212.41,98.06,0.0,0.0
+Bantry E,Ballyv.,282.26,158.27,0.0,0.0
+Bantry E,Aughinish,288.75,162.36,0.0,0.17
+Bantry E,Kinvarra,295.67,164.73,0.0,0.0
+Bantry E,Clarinb.,295.45,168.07,0.0,0.0
+Bantry E,Tawin,293.9,169.15,0.0,0.0
+Bantry E,Kilkieran,273.73,179.01,0.0,0.0
+Bantry E,Clifden S,283.78,196.01,0.0,0.0
+Bantry E,Clifden M,284.51,199.76,0.0,0.0
+Bantry E,Clifden N,286.38,203.57,0.0,0.0
+Bantry E,Ballynakill,300.2,209.52,0.0,0.0
+Bantry E,Killary I,322.29,208.76,0.0,0.0
+Bantry E,Killary M,319.68,210.1,0.0,0.0
+Bantry E,Killary O,316.9,211.43,0.0,0.0
+Bantry E,Clew S,341.39,231.75,0.0,0.0
+Bantry E,Clew N,341.38,240.0,0.0,0.0
+Bantry E,Achill S,374.16,241.68,0.0,0.0
+Bantry E,Achill N,358.73,256.67,0.0,0.0
+Bantry E,Blacksod,361.89,271.83,0.0,0.0
+Bantry E,Kilalla,443.23,278.3,0.0,0.0
+Bantry E,Sligo,478.43,293.11,0.0,0.0
+Bantry E,Drumcliff,475.4,296.79,0.0,0.0
+Bantry E,Donegal E,512.37,332.52,0.0,0.0
+Bantry E,Donegal W,499.09,329.19,0.0,0.0
+Bantry E,Gweebarra S,500.82,345.61,0.0,0.0
+Bantry E,Gweebarra M,516.24,356.16,0.0,0.0
+Bantry E,Gweebarra N,518.57,358.79,0.0,0.0
+Bantry E,Dungloe,521.37,366.3,0.0,0.0
+Bantry E,Gweedore,534.65,380.86,0.0,0.0
+Bantry F,Bantry G,8.98,8.1,0.0,0.0
+Bantry F,Kenmare A,75.52,17.16,0.0,0.0
+Bantry F,Kenmare B,81.07,14.11,0.0,0.0
+Bantry F,Kenmare C,84.42,13.91,0.0,0.0
+Bantry F,Kenmare D,99.05,20.44,0.0,0.0
+Bantry F,Kenmare E,87.42,18.08,0.0,0.0
+Bantry F,Valentia,92.33,51.43,0.0,0.0
+Bantry F,Dingle,137.9,53.36,0.0,0.0
+Bantry F,Tralee,160.32,74.39,0.0,0.0
+Bantry F,Ballylong.,201.8,101.07,0.0,0.0
+Bantry F,Poulnas'y,208.78,110.12,0.0,0.0
+Bantry F,Carrigaholt,196.3,103.85,0.0,0.0
+Bantry F,Ballyv.,266.15,166.74,0.0,0.0
+Bantry F,Aughinish,272.64,171.26,0.0,0.17
+Bantry F,Kinvarra,279.56,173.94,0.0,0.0
+Bantry F,Clarinb.,279.34,177.14,0.0,0.0
+Bantry F,Tawin,277.79,178.05,0.0,0.0
+Bantry F,Kilkieran,257.62,184.82,0.0,0.0
+Bantry F,Clifden S,267.67,200.19,0.0,0.0
+Bantry F,Clifden M,268.4,203.89,0.0,0.0
+Bantry F,Clifden N,270.27,207.58,0.0,0.0
+Bantry F,Ballynakill,284.09,213.96,0.0,0.0
+Bantry F,Killary I,306.19,214.31,0.0,0.0
+Bantry F,Killary M,303.57,215.54,0.0,0.0
+Bantry F,Killary O,300.8,216.74,0.0,0.0
+Bantry F,Clew S,325.28,237.84,0.0,0.0
+Bantry F,Clew N,325.27,245.85,0.0,0.0
+Bantry F,Achill S,358.05,246.77,0.0,0.0
+Bantry F,Achill N,342.62,261.81,0.0,0.0
+Bantry F,Blacksod,345.78,276.72,0.0,0.0
+Bantry F,Kilalla,427.12,285.76,0.0,0.0
+Bantry F,Sligo,462.32,302.05,0.0,0.0
+Bantry F,Drumcliff,459.29,305.6,0.0,0.0
+Bantry F,Donegal E,496.26,341.79,0.0,0.0
+Bantry F,Donegal W,482.98,338.06,0.0,0.0
+Bantry F,Gweebarra S,484.71,354.08,0.0,0.0
+Bantry F,Gweebarra M,500.13,364.89,0.0,0.0
+Bantry F,Gweebarra N,502.46,367.53,0.0,0.0
+Bantry F,Dungloe,505.26,374.93,0.0,0.0
+Bantry F,Gweedore,518.54,389.55,0.0,0.0
+Bantry G,Kenmare A,66.78,13.43,0.0,0.0
+Bantry G,Kenmare B,72.33,12.65,0.0,0.0
+Bantry G,Kenmare C,75.68,14.24,0.0,0.0
+Bantry G,Kenmare D,90.31,25.07,0.0,0.0
+Bantry G,Kenmare E,78.67,19.23,0.0,0.0
+Bantry G,Valentia,83.59,47.25,0.0,0.0
+Bantry G,Dingle,129.16,55.27,0.0,0.0
+Bantry G,Tralee,151.58,75.78,0.0,0.0
+Bantry G,Ballylong.,193.06,104.69,0.0,0.0
+Bantry G,Poulnas'y,200.04,113.7,0.0,0.0
+Bantry G,Carrigaholt,187.56,106.98,0.0,0.0
+Bantry G,Ballyv.,257.41,171.16,0.0,0.0
+Bantry G,Aughinish,263.9,175.92,0.0,0.17
+Bantry G,Kinvarra,270.82,178.78,0.0,0.0
+Bantry G,Clarinb.,270.6,181.9,0.0,0.0
+Bantry G,Tawin,269.05,182.71,0.0,0.0
+Bantry G,Kilkieran,248.88,187.63,0.0,0.0
+Bantry G,Clifden S,258.93,202.01,0.0,0.0
+Bantry G,Clifden M,259.66,205.67,0.0,0.0
+Bantry G,Clifden N,261.53,209.29,0.0,0.0
+Bantry G,Ballynakill,275.35,215.91,0.0,0.0
+Bantry G,Killary I,297.44,216.91,0.0,0.0
+Bantry G,Killary M,294.83,218.07,0.0,0.0
+Bantry G,Killary O,292.06,219.2,0.0,0.0
+Bantry G,Clew S,316.54,240.72,0.0,0.0
+Bantry G,Clew N,316.53,248.59,0.0,0.0
+Bantry G,Achill S,349.31,249.05,0.0,0.0
+Bantry G,Achill N,333.88,264.1,0.0,0.0
+Bantry G,Blacksod,337.04,278.85,0.0,0.0
+Bantry G,Kilalla,418.38,289.42,0.0,0.0
+Bantry G,Sligo,453.58,306.6,0.0,0.0
+Bantry G,Drumcliff,450.55,310.06,0.0,0.0
+Bantry G,Donegal E,487.52,346.51,0.0,0.0
+Bantry G,Donegal W,474.24,342.54,0.0,0.0
+Bantry G,Gweebarra S,475.97,358.3,0.0,0.0
+Bantry G,Gweebarra M,491.39,369.27,0.0,0.0
+Bantry G,Gweebarra N,493.72,371.91,0.0,0.0
+Bantry G,Dungloe,496.52,379.24,0.0,0.0
+Bantry G,Gweedore,509.8,393.9,0.0,0.0
+Kenmare A,Kenmare B,5.56,4.67,0.0,0.0
+Kenmare A,Kenmare C,8.91,7.63,0.0,0.0
+Kenmare A,Kenmare D,23.54,20.73,0.0,0.0
+Kenmare A,Kenmare E,11.9,10.89,0.0,0.0
+Kenmare A,Valentia,59.15,34.38,0.0,0.0
+Kenmare A,Dingle,104.71,44.26,0.0,0.0
+Kenmare A,Tralee,127.13,63.97,0.0,0.0
+Kenmare A,Ballylong.,168.62,95.05,0.0,0.0
+Kenmare A,Poulnas'y,175.6,103.95,0.0,0.0
+Kenmare A,Carrigaholt,163.11,96.69,0.0,0.0
+Kenmare A,Ballyv.,232.97,162.32,0.0,0.0
+Kenmare A,Aughinish,239.46,167.44,0.0,0.17
+Kenmare A,Kinvarra,246.37,170.6,0.0,0.0
+Kenmare A,Clarinb.,246.16,173.56,0.0,0.0
+Kenmare A,Tawin,244.61,174.2,0.0,0.0
+Kenmare A,Kilkieran,224.43,176.71,0.0,0.0
+Kenmare A,Clifden S,234.49,190.15,0.0,0.0
+Kenmare A,Clifden M,235.22,193.77,0.0,0.0
+Kenmare A,Clifden N,237.09,197.32,0.0,0.0
+Kenmare A,Ballynakill,250.91,204.13,0.0,0.0
+Kenmare A,Killary I,273.0,205.73,0.0,0.0
+Kenmare A,Killary M,270.39,206.82,0.0,0.0
+Kenmare A,Killary O,267.61,207.88,0.0,0.0
+Kenmare A,Clew S,292.1,229.8,0.0,0.0
+Kenmare A,Clew N,292.08,237.51,0.0,0.0
+Kenmare A,Achill S,324.86,237.54,0.0,0.0
+Kenmare A,Achill N,309.44,252.59,0.0,0.0
+Kenmare A,Blacksod,312.59,267.18,0.0,0.0
+Kenmare A,Kilalla,393.93,279.33,0.0,0.0
+Kenmare A,Sligo,429.14,297.72,0.0,0.0
+Kenmare A,Drumcliff,426.1,301.06,0.0,0.0
+Kenmare A,Donegal E,463.08,337.88,0.0,0.0
+Kenmare A,Donegal W,449.79,333.54,0.0,0.0
+Kenmare A,Gweebarra S,451.53,348.91,0.0,0.0
+Kenmare A,Gweebarra M,466.95,360.1,0.0,0.0
+Kenmare A,Gweebarra N,469.28,362.75,0.0,0.0
+Kenmare A,Dungloe,472.07,369.97,0.0,0.0
+Kenmare A,Gweedore,485.36,384.67,0.0,0.0
+Kenmare B,Kenmare C,4.47,3.13,0.0,0.0
+Kenmare B,Kenmare D,19.09,16.48,0.0,0.0
+Kenmare B,Kenmare E,7.83,7.46,0.0,0.0
+Kenmare B,Valentia,64.7,37.5,0.0,0.0
+Kenmare B,Dingle,110.27,42.89,0.0,0.0
+Kenmare B,Tralee,132.69,63.2,0.0,0.0
+Kenmare B,Ballylong.,174.17,93.01,0.0,0.0
+Kenmare B,Poulnas'y,181.15,101.97,0.0,0.0
+Kenmare B,Carrigaholt,168.67,94.97,0.0,0.0
+Kenmare B,Ballyv.,238.52,159.97,0.0,0.0
+Kenmare B,Aughinish,245.01,164.94,0.0,0.17
+Kenmare B,Kinvarra,251.93,167.99,0.0,0.0
+Kenmare B,Clarinb.,251.71,171.01,0.0,0.0
+Kenmare B,Tawin,250.16,171.72,0.0,0.0
+Kenmare B,Kilkieran,229.99,175.38,0.0,0.0
+Kenmare B,Clifden S,240.04,189.45,0.0,0.0
+Kenmare B,Clifden M,240.77,193.1,0.0,0.0
+Kenmare B,Clifden N,242.64,196.71,0.0,0.0
+Kenmare B,Ballynakill,256.46,203.37,0.0,0.0
+Kenmare B,Killary I,278.56,204.57,0.0,0.0
+Kenmare B,Killary M,275.94,205.7,0.0,0.0
+Kenmare B,Killary O,273.17,206.8,0.0,0.0
+Kenmare B,Clew S,297.65,228.49,0.0,0.0
+Kenmare B,Clew N,297.64,236.29,0.0,0.0
+Kenmare B,Achill S,330.42,236.6,0.0,0.0
+Kenmare B,Achill N,314.99,251.65,0.0,0.0
+Kenmare B,Blacksod,318.15,266.35,0.0,0.0
+Kenmare B,Kilalla,399.49,277.57,0.0,0.0
+Kenmare B,Sligo,434.69,295.41,0.0,0.0
+Kenmare B,Drumcliff,431.66,298.81,0.0,0.0
+Kenmare B,Donegal E,468.63,335.48,0.0,0.0
+Kenmare B,Donegal W,455.35,331.29,0.0,0.0
+Kenmare B,Gweebarra S,457.08,346.83,0.0,0.0
+Kenmare B,Gweebarra M,472.5,357.92,0.0,0.0
+Kenmare B,Gweebarra N,474.83,360.57,0.0,0.0
+Kenmare B,Dungloe,477.63,367.84,0.0,0.0
+Kenmare B,Gweedore,490.91,382.52,0.0,0.0
+Kenmare C,Kenmare D,15.77,13.36,0.0,0.0
+Kenmare C,Kenmare E,5.37,5.01,0.0,0.0
+Kenmare C,Valentia,68.05,38.72,0.0,0.0
+Kenmare C,Dingle,113.62,41.04,0.0,0.0
+Kenmare C,Tralee,136.04,61.64,0.0,0.0
+Kenmare C,Ballylong.,177.53,90.68,0.0,0.0
+Kenmare C,Poulnas'y,184.5,99.67,0.0,0.0
+Kenmare C,Carrigaholt,172.02,92.82,0.0,0.0
+Kenmare C,Ballyv.,241.88,157.47,0.0,0.0
+Kenmare C,Aughinish,248.36,162.38,0.0,0.17
+Kenmare C,Kinvarra,255.28,165.37,0.0,0.0
+Kenmare C,Clarinb.,255.06,168.42,0.0,0.0
+Kenmare C,Tawin,253.52,169.16,0.0,0.0
+Kenmare C,Kilkieran,233.34,173.4,0.0,0.0
+Kenmare C,Clifden S,243.39,187.83,0.0,0.0
+Kenmare C,Clifden M,244.12,191.49,0.0,0.0
+Kenmare C,Clifden N,245.99,195.12,0.0,0.0
+Kenmare C,Ballynakill,259.82,201.7,0.0,0.0
+Kenmare C,Killary I,281.91,202.67,0.0,0.0
+Kenmare C,Killary M,279.29,203.83,0.0,0.0
+Kenmare C,Killary O,276.52,204.96,0.0,0.0
+Kenmare C,Clew S,301.0,226.5,0.0,0.0
+Kenmare C,Clew N,300.99,234.35,0.0,0.0
+Kenmare C,Achill S,333.77,234.82,0.0,0.0
+Kenmare C,Achill N,318.34,249.87,0.0,0.0
+Kenmare C,Blacksod,321.5,264.63,0.0,0.0
+Kenmare C,Kilalla,402.84,275.35,0.0,0.0
+Kenmare C,Sligo,438.04,292.92,0.0,0.0
+Kenmare C,Drumcliff,435.01,296.34,0.0,0.0
+Kenmare C,Donegal E,471.98,332.94,0.0,0.0
+Kenmare C,Donegal W,458.7,328.82,0.0,0.0
+Kenmare C,Gweebarra S,460.43,344.44,0.0,0.0
+Kenmare C,Gweebarra M,475.86,355.49,0.0,0.0
+Kenmare C,Gweebarra N,478.18,358.13,0.0,0.0
+Kenmare C,Dungloe,480.98,365.42,0.0,0.0
+Kenmare C,Gweedore,494.26,380.09,0.0,0.0
+Kenmare D,Kenmare E,12.69,10.35,0.0,0.0
+Kenmare D,Valentia,82.68,45.21,0.0,0.0
+Kenmare D,Dingle,128.25,34.26,0.0,0.0
+Kenmare D,Tralee,150.67,55.47,0.0,0.0
+Kenmare D,Ballylong.,192.15,80.63,0.0,0.0
+Kenmare D,Poulnas'y,199.13,89.69,0.0,0.0
+Kenmare D,Carrigaholt,186.65,83.52,0.0,0.0
+Kenmare D,Ballyv.,256.5,146.43,0.0,0.0
+Kenmare D,Aughinish,262.99,151.04,0.0,0.17
+Kenmare D,Kinvarra,269.9,153.83,0.0,0.0
+Kenmare D,Clarinb.,269.69,156.98,0.0,0.0
+Kenmare D,Tawin,268.14,157.84,0.0,0.0
+Kenmare D,Kilkieran,247.96,164.54,0.0,0.0
+Kenmare D,Clifden S,258.02,180.43,0.0,0.0
+Kenmare D,Clifden M,258.75,184.15,0.0,0.0
+Kenmare D,Clifden N,260.62,187.9,0.0,0.0
+Kenmare D,Ballynakill,274.44,194.11,0.0,0.0
+Kenmare D,Killary I,296.53,194.1,0.0,0.0
+Kenmare D,Killary M,293.92,195.36,0.0,0.0
+Kenmare D,Killary O,291.14,196.6,0.0,0.0
+Kenmare D,Clew S,315.63,217.52,0.0,0.0
+Kenmare D,Clew N,315.62,225.58,0.0,0.0
+Kenmare D,Achill S,348.39,226.7,0.0,0.0
+Kenmare D,Achill N,332.97,241.73,0.0,0.0
+Kenmare D,Blacksod,336.12,256.73,0.0,0.0
+Kenmare D,Kilalla,417.46,265.32,0.0,0.0
+Kenmare D,Sligo,452.67,281.8,0.0,0.0
+Kenmare D,Drumcliff,449.63,285.32,0.0,0.0
+Kenmare D,Donegal E,486.61,321.63,0.0,0.0
+Kenmare D,Donegal W,473.32,317.78,0.0,0.0
+Kenmare D,Gweebarra S,475.06,333.71,0.0,0.0
+Kenmare D,Gweebarra M,490.48,344.57,0.0,0.0
+Kenmare D,Gweebarra N,492.81,347.21,0.0,0.0
+Kenmare D,Dungloe,495.6,354.59,0.0,0.0
+Kenmare D,Gweedore,508.89,369.23,0.0,0.0
+Kenmare E,Valentia,71.05,37.04,0.0,0.0
+Kenmare E,Dingle,116.61,36.08,0.0,0.0
+Kenmare E,Tralee,139.03,56.77,0.0,0.0
+Kenmare E,Ballylong.,180.52,85.7,0.0,0.0
+Kenmare E,Poulnas'y,187.5,94.68,0.0,0.0
+Kenmare E,Carrigaholt,175.01,87.81,0.0,0.0
+Kenmare E,Ballyv.,244.87,152.56,0.0,0.0
+Kenmare E,Aughinish,251.36,157.5,0.0,0.17
+Kenmare E,Kinvarra,258.27,160.53,0.0,0.0
+Kenmare E,Clarinb.,258.06,163.57,0.0,0.0
+Kenmare E,Tawin,256.51,164.28,0.0,0.0
+Kenmare E,Kilkieran,236.33,168.4,0.0,0.0
+Kenmare E,Clifden S,246.39,182.91,0.0,0.0
+Kenmare E,Clifden M,247.12,186.58,0.0,0.0
+Kenmare E,Clifden N,248.98,190.23,0.0,0.0
+Kenmare E,Ballynakill,262.81,196.78,0.0,0.0
+Kenmare E,Killary I,284.9,197.68,0.0,0.0
+Kenmare E,Killary M,282.29,198.84,0.0,0.0
+Kenmare E,Killary O,279.51,199.98,0.0,0.0
+Kenmare E,Clew S,303.99,221.5,0.0,0.0
+Kenmare E,Clew N,303.98,229.36,0.0,0.0
+Kenmare E,Achill S,336.76,229.86,0.0,0.0
+Kenmare E,Achill N,321.33,244.91,0.0,0.0
+Kenmare E,Blacksod,324.49,259.68,0.0,0.0
+Kenmare E,Kilalla,405.83,270.35,0.0,0.0
+Kenmare E,Sligo,441.04,288.01,0.0,0.0
+Kenmare E,Drumcliff,438.0,291.41,0.0,0.0
+Kenmare E,Donegal E,474.97,328.06,0.0,0.0
+Kenmare E,Donegal W,461.69,323.9,0.0,0.0
+Kenmare E,Gweebarra S,463.42,339.48,0.0,0.0
+Kenmare E,Gweebarra M,478.85,350.55,0.0,0.0
+Kenmare E,Gweebarra N,481.18,353.19,0.0,0.0
+Kenmare E,Dungloe,483.97,360.48,0.0,0.0
+Kenmare E,Gweedore,497.26,375.15,0.0,0.0
+Valentia,Dingle,46.51,39.73,0.0,0.0
+Valentia,Tralee,75.91,49.85,0.0,0.0
+Valentia,Ballylong.,117.4,87.17,0.0,0.0
+Valentia,Poulnas'y,124.38,94.93,0.0,0.0
+Valentia,Carrigaholt,111.89,86.07,0.0,0.0
+Valentia,Ballyv.,181.75,154.06,0.0,0.0
+Valentia,Aughinish,188.24,160.27,0.0,0.17
+Valentia,Kinvarra,195.15,164.31,0.0,0.0
+Valentia,Clarinb.,194.94,166.69,0.0,0.0
+Valentia,Tawin,193.39,166.76,0.0,0.0
+Valentia,Kilkieran,173.21,160.24,0.0,0.0
+Valentia,Clifden S,183.27,169.27,0.0,0.0
+Valentia,Clifden M,184.0,172.69,0.0,0.0
+Valentia,Clifden N,185.86,175.88,0.0,0.0
+Valentia,Ballynakill,199.69,183.49,0.0,0.0
+Valentia,Killary I,221.78,187.7,0.0,0.0
+Valentia,Killary M,219.17,188.48,0.0,0.0
+Valentia,Killary O,216.39,189.21,0.0,0.0
+Valentia,Clew S,240.87,212.55,0.0,0.0
+Valentia,Clew N,240.86,219.51,0.0,0.0
+Valentia,Achill S,273.64,217.71,0.0,0.0
+Valentia,Achill N,258.21,232.62,0.0,0.0
+Valentia,Blacksod,261.37,246.43,0.0,0.0
+Valentia,Kilalla,342.71,264.8,0.0,0.0
+Valentia,Sligo,377.92,287.26,0.0,0.0
+Valentia,Drumcliff,374.88,290.15,0.0,0.0
+Valentia,Donegal E,411.85,327.95,0.0,0.0
+Valentia,Donegal W,398.57,322.41,0.0,0.0
+Valentia,Gweebarra S,400.3,336.38,0.0,0.0
+Valentia,Gweebarra M,415.73,348.25,0.0,0.0
+Valentia,Gweebarra N,418.06,350.88,0.0,0.0
+Valentia,Dungloe,420.85,357.72,0.0,0.0
+Valentia,Gweedore,434.14,372.47,0.0,0.0
+Dingle,Tralee,103.13,21.22,0.0,0.0
+Dingle,Ballylong.,144.61,51.45,0.0,0.0
+Dingle,Poulnas'y,151.59,60.15,0.0,0.0
+Dingle,Carrigaholt,139.11,52.53,0.0,0.0
+Dingle,Ballyv.,208.96,119.18,0.0,0.0
+Dingle,Aughinish,215.45,124.72,0.0,0.17
+Dingle,Kinvarra,222.36,128.25,0.0,0.0
+Dingle,Clarinb.,222.15,130.99,0.0,0.0
+Dingle,Tawin,220.6,131.41,0.0,0.0
+Dingle,Kilkieran,200.42,132.52,0.0,0.0
+Dingle,Clifden S,210.48,146.89,0.0,0.0
+Dingle,Clifden M,211.21,150.57,0.0,0.0
+Dingle,Clifden N,213.08,154.25,0.0,0.0
+Dingle,Ballynakill,226.9,160.72,0.0,0.0
+Dingle,Killary I,248.99,161.68,0.0,0.0
+Dingle,Killary M,246.38,162.81,0.0,0.0
+Dingle,Killary O,243.6,163.93,0.0,0.0
+Dingle,Clew S,268.09,185.62,0.0,0.0
+Dingle,Clew N,268.08,193.4,0.0,0.0
+Dingle,Achill S,300.85,193.78,0.0,0.0
+Dingle,Achill N,285.43,208.83,0.0,0.0
+Dingle,Blacksod,288.58,223.61,0.0,0.0
+Dingle,Kilalla,369.92,235.13,0.0,0.0
+Dingle,Sligo,405.13,254.24,0.0,0.0
+Dingle,Drumcliff,402.09,257.47,0.0,0.0
+Dingle,Donegal E,439.07,294.6,0.0,0.0
+Dingle,Donegal W,425.78,289.93,0.0,0.0
+Dingle,Gweebarra S,427.52,305.01,0.0,0.0
+Dingle,Gweebarra M,442.94,316.35,0.0,0.0
+Dingle,Gweebarra N,445.27,318.99,0.0,0.0
+Dingle,Dungloe,448.07,326.14,0.0,0.0
+Dingle,Gweedore,461.35,340.85,0.0,0.0
+Tralee,Ballylong.,46.86,37.71,0.0,0.0
+Tralee,Poulnas'y,53.83,45.12,0.0,0.0
+Tralee,Carrigaholt,41.35,36.22,0.0,0.0
+Tralee,Ballyv.,117.91,104.22,0.0,0.0
+Tralee,Aughinish,124.4,110.44,0.0,0.17
+Tralee,Kinvarra,131.32,114.52,0.0,0.0
+Tralee,Clarinb.,131.11,116.86,0.0,0.0
+Tralee,Tawin,129.56,116.91,0.0,0.0
+Tralee,Kilkieran,116.94,113.23,0.0,0.0
+Tralee,Clifden S,136.01,126.25,0.0,0.0
+Tralee,Clifden M,136.74,129.9,0.0,0.0
+Tralee,Clifden N,138.61,133.51,0.0,0.0
+Tralee,Ballynakill,152.82,140.19,0.0,0.0
+Tralee,Killary I,174.91,141.94,0.0,0.0
+Tralee,Killary M,172.3,142.97,0.0,0.0
+Tralee,Killary O,169.52,143.99,0.0,0.0
+Tralee,Clew S,194.01,166.23,0.0,0.0
+Tralee,Clew N,194.0,173.77,0.0,0.0
+Tralee,Achill S,229.14,173.57,0.0,0.0
+Tralee,Achill N,213.71,188.62,0.0,0.0
+Tralee,Blacksod,216.87,203.22,0.0,0.0
+Tralee,Kilalla,298.22,216.91,0.0,0.0
+Tralee,Sligo,333.42,237.9,0.0,0.0
+Tralee,Drumcliff,330.39,240.91,0.0,0.0
+Tralee,Donegal E,367.36,278.51,0.0,0.0
+Tralee,Donegal W,354.08,273.27,0.0,0.0
+Tralee,Gweebarra S,355.81,287.71,0.0,0.0
+Tralee,Gweebarra M,371.24,299.35,0.0,0.0
+Tralee,Gweebarra N,373.56,301.99,0.0,0.0
+Tralee,Dungloe,376.36,308.97,0.0,0.0
+Tralee,Gweedore,389.64,323.71,0.0,0.0
+Ballylong.,Poulnas'y,9.56,9.06,0.0,0.0
+Ballylong.,Carrigaholt,8.63,7.53,0.0,0.0
+Ballylong.,Ballyv.,119.92,67.76,0.0,0.0
+Ballylong.,Aughinish,126.41,73.49,0.0,0.17
+Ballylong.,Kinvarra,133.33,77.28,0.0,0.0
+Ballylong.,Clarinb.,133.12,79.83,0.0,0.0
+Ballylong.,Tawin,131.57,80.12,0.0,0.0
+Ballylong.,Kilkieran,118.96,84.74,0.0,0.0
+Ballylong.,Clifden S,138.39,103.99,0.0,0.0
+Ballylong.,Clifden M,139.12,107.78,0.0,0.0
+Ballylong.,Clifden N,141.0,111.81,0.0,0.0
+Ballylong.,Ballynakill,155.21,116.81,0.0,0.0
+Ballylong.,Killary I,177.3,114.59,0.0,0.0
+Ballylong.,Killary M,174.69,116.03,0.0,0.0
+Ballylong.,Killary O,171.91,117.46,0.0,0.0
+Ballylong.,Clew S,196.39,137.34,0.0,0.0
+Ballylong.,Clew N,196.38,145.63,0.0,0.0
+Ballylong.,Achill S,231.52,147.83,0.0,0.0
+Ballylong.,Achill N,216.09,162.74,0.0,0.0
+Ballylong.,Blacksod,219.25,178.11,0.0,0.0
+Ballylong.,Kilalla,300.6,184.75,0.0,0.0
+Ballylong.,Sligo,335.81,202.82,0.0,0.0
+Ballylong.,Drumcliff,332.77,206.09,0.0,0.0
+Ballylong.,Donegal E,369.75,243.15,0.0,0.0
+Ballylong.,Donegal W,356.46,238.56,0.0,0.0
+Ballylong.,Gweebarra S,358.2,253.87,0.0,0.0
+Ballylong.,Gweebarra M,373.62,265.06,0.0,0.0
+Ballylong.,Gweebarra N,375.95,267.71,0.0,0.0
+Ballylong.,Dungloe,378.74,274.92,0.0,0.0
+Ballylong.,Gweedore,392.03,289.62,0.0,0.0
+Poulnas'y,Carrigaholt,12.48,9.39,0.0,0.0
+Poulnas'y,Ballyv.,126.9,59.35,0.0,0.0
+Poulnas'y,Aughinish,133.39,65.37,0.0,0.17
+Poulnas'y,Kinvarra,140.31,69.4,0.0,0.0
+Poulnas'y,Clarinb.,140.1,71.77,0.0,0.0
+Poulnas'y,Tawin,138.55,71.9,0.0,0.0
+Poulnas'y,Kilkieran,125.94,75.83,0.0,0.0
+Poulnas'y,Clifden S,145.37,95.71,0.0,0.0
+Poulnas'y,Clifden M,146.1,99.5,0.0,0.0
+Poulnas'y,Clifden N,147.98,103.57,0.0,0.0
+Poulnas'y,Ballynakill,162.19,108.32,0.0,0.0
+Poulnas'y,Killary I,184.28,105.71,0.0,0.0
+Poulnas'y,Killary M,181.67,107.17,0.0,0.0
+Poulnas'y,Killary O,178.89,108.64,0.0,0.0
+Poulnas'y,Clew S,203.37,128.33,0.0,0.0
+Poulnas'y,Clew N,203.36,136.66,0.0,0.0
+Poulnas'y,Achill S,238.5,139.03,0.0,0.0
+Poulnas'y,Achill N,223.07,153.9,0.0,0.0
+Poulnas'y,Blacksod,226.23,169.33,0.0,0.0
+Poulnas'y,Kilalla,307.58,175.72,0.0,0.0
+Poulnas'y,Sligo,342.79,194.11,0.0,0.0
+Poulnas'y,Drumcliff,339.75,197.33,0.0,0.0
+Poulnas'y,Donegal E,376.73,234.51,0.0,0.0
+Poulnas'y,Donegal W,363.44,229.79,0.0,0.0
+Poulnas'y,Gweebarra S,365.18,244.98,0.0,0.0
+Poulnas'y,Gweebarra M,380.6,256.23,0.0,0.0
+Poulnas'y,Gweebarra N,382.93,258.88,0.0,0.0
+Poulnas'y,Dungloe,385.72,266.06,0.0,0.0
+Poulnas'y,Gweedore,399.01,280.76,0.0,0.0
+Carrigaholt,Ballyv.,114.42,68.0,0.0,0.0
+Carrigaholt,Aughinish,120.91,74.25,0.0,0.17
+Carrigaholt,Kinvarra,127.82,78.43,0.0,0.0
+Carrigaholt,Clarinb.,127.61,80.68,0.0,0.0
+Carrigaholt,Tawin,126.07,80.7,0.0,0.0
+Carrigaholt,Kilkieran,113.45,81.05,0.0,0.0
+Carrigaholt,Clifden S,132.89,98.83,0.0,0.0
+Carrigaholt,Clifden M,133.62,102.61,0.0,0.0
+Carrigaholt,Clifden N,135.49,106.58,0.0,0.0
+Carrigaholt,Ballynakill,149.7,111.95,0.0,0.0
+Carrigaholt,Killary I,171.79,110.72,0.0,0.0
+Carrigaholt,Killary M,169.18,112.04,0.0,0.0
+Carrigaholt,Killary O,166.4,113.37,0.0,0.0
+Carrigaholt,Clew S,190.89,134.0,0.0,0.0
+Carrigaholt,Clew N,190.88,142.09,0.0,0.0
+Carrigaholt,Achill S,226.02,143.65,0.0,0.0
+Carrigaholt,Achill N,210.59,158.62,0.0,0.0
+Carrigaholt,Blacksod,213.75,173.84,0.0,0.0
+Carrigaholt,Kilalla,295.1,182.65,0.0,0.0
+Carrigaholt,Sligo,330.3,202.13,0.0,0.0
+Carrigaholt,Drumcliff,327.27,205.25,0.0,0.0
+Carrigaholt,Donegal E,364.24,242.65,0.0,0.0
+Carrigaholt,Donegal W,350.96,237.67,0.0,0.0
+Carrigaholt,Gweebarra S,352.69,252.55,0.0,0.0
+Carrigaholt,Gweebarra M,368.12,263.97,0.0,0.0
+Carrigaholt,Gweebarra N,370.44,266.61,0.0,0.0
+Carrigaholt,Dungloe,373.24,273.71,0.0,0.0
+Carrigaholt,Gweedore,386.52,288.44,0.0,0.0
+Ballyv.,Aughinish,9.37,7.75,0.0,0.17
+Ballyv.,Kinvarra,16.3,13.33,0.0,0.0
+Ballyv.,Clarinb.,16.1,13.78,0.0,0.0
+Ballyv.,Tawin,14.55,12.99,0.0,0.0
+Ballyv.,Kilkieran,52.88,43.05,0.0,0.0
+Ballyv.,Clifden S,97.9,71.87,0.0,0.0
+Ballyv.,Clifden M,98.63,74.82,0.0,0.0
+Ballyv.,Clifden N,100.51,78.72,0.0,0.0
+Ballyv.,Ballynakill,114.81,78.37,0.0,0.0
+Ballyv.,Killary I,136.9,66.68,0.0,0.0
+Ballyv.,Killary M,134.29,68.85,0.0,0.0
+Ballyv.,Killary O,131.51,71.07,0.0,0.0
+Ballyv.,Clew S,155.99,82.33,0.0,0.0
+Ballyv.,Clew N,155.98,91.55,0.0,0.0
+Ballyv.,Achill S,191.12,98.85,0.0,0.0
+Ballyv.,Achill N,175.69,112.04,0.0,0.0
+Ballyv.,Blacksod,178.85,127.89,0.0,0.0
+Ballyv.,Kilalla,260.2,121.06,0.0,0.0
+Ballyv.,Sligo,295.41,135.45,0.0,0.0
+Ballyv.,Drumcliff,292.37,138.9,0.0,0.0
+Ballyv.,Donegal E,329.35,175.56,0.0,0.0
+Ballyv.,Donegal W,316.06,171.38,0.0,0.0
+Ballyv.,Gweebarra S,317.8,187.39,0.0,0.0
+Ballyv.,Gweebarra M,333.22,198.15,0.0,0.0
+Ballyv.,Gweebarra N,335.55,200.79,0.0,0.0
+Ballyv.,Dungloe,338.34,208.19,0.0,0.0
+Ballyv.,Gweedore,351.63,222.81,0.0,0.0
+Aughinish,Kinvarra,9.27,5.62,0.17,0.0
+Aughinish,Clarinb.,9.07,6.47,0.17,0.0
+Aughinish,Tawin,7.89,6.8,0.17,0.0
+Aughinish,Kilkieran,58.42,48.14,0.17,0.0
+Aughinish,Clifden S,103.44,76.9,0.17,0.0
+Aughinish,Clifden M,104.17,79.65,0.17,0.0
+Aughinish,Clifden N,106.04,83.42,0.17,0.0
+Aughinish,Ballynakill,120.34,82.35,0.17,0.0
+Aughinish,Killary I,142.43,69.4,0.17,0.0
+Aughinish,Killary M,139.82,71.65,0.17,0.0
+Aughinish,Killary O,137.05,73.95,0.17,0.0
+Aughinish,Clew S,161.53,83.0,0.17,0.0
+Aughinish,Clew N,161.52,92.26,0.17,0.0
+Aughinish,Achill S,196.66,100.54,0.17,0.0
+Aughinish,Achill N,181.23,113.18,0.17,0.0
+Aughinish,Blacksod,184.39,128.93,0.17,0.0
+Aughinish,Kilalla,265.74,118.55,0.17,0.0
+Aughinish,Sligo,300.94,130.82,0.17,0.0
+Aughinish,Drumcliff,297.91,134.44,0.17,0.0
+Aughinish,Donegal E,334.88,170.6,0.17,0.0
+Aughinish,Donegal W,321.6,166.86,0.17,0.0
+Aughinish,Gweebarra S,323.33,183.33,0.17,0.0
+Aughinish,Gweebarra M,338.76,193.8,0.17,0.0
+Aughinish,Gweebarra N,341.09,196.43,0.17,0.0
+Aughinish,Dungloe,343.88,203.94,0.17,0.0
+Aughinish,Gweedore,357.16,218.5,0.17,0.0
+Kinvarra,Clarinb.,4.62,3.97,0.0,0.0
+Kinvarra,Tawin,7.86,6.53,0.0,0.0
+Kinvarra,Kilkieran,63.45,52.77,0.0,0.0
+Kinvarra,Clifden S,108.47,81.39,0.0,0.0
+Kinvarra,Clifden M,109.2,84.03,0.0,0.0
+Kinvarra,Clifden N,111.07,87.72,0.0,0.0
+Kinvarra,Ballynakill,125.37,86.24,0.0,0.0
+Kinvarra,Killary I,147.46,72.59,0.0,0.0
+Kinvarra,Killary M,144.85,74.87,0.0,0.0
+Kinvarra,Killary O,142.07,77.2,0.0,0.0
+Kinvarra,Clew S,166.56,84.78,0.0,0.0
+Kinvarra,Clew N,166.55,94.03,0.0,0.0
+Kinvarra,Achill S,201.69,102.94,0.0,0.0
+Kinvarra,Achill N,186.26,115.17,0.0,0.0
+Kinvarra,Blacksod,189.42,130.82,0.0,0.0
+Kinvarra,Kilalla,270.77,117.88,0.0,0.0
+Kinvarra,Sligo,305.97,128.41,0.0,0.0
+Kinvarra,Drumcliff,302.94,132.18,0.0,0.0
+Kinvarra,Donegal E,339.91,167.87,0.0,0.0
+Kinvarra,Donegal W,326.63,164.51,0.0,0.0
+Kinvarra,Gweebarra S,328.36,181.35,0.0,0.0
+Kinvarra,Gweebarra M,343.79,191.56,0.0,0.0
+Kinvarra,Gweebarra N,346.11,194.19,0.0,0.0
+Kinvarra,Dungloe,348.91,201.79,0.0,0.0
+Kinvarra,Gweedore,362.19,216.28,0.0,0.0
+Clarinb.,Tawin,3.24,2.89,0.0,0.0
+Clarinb.,Kilkieran,59.79,50.31,0.0,0.0
+Clarinb.,Clifden S,104.81,78.74,0.0,0.0
+Clarinb.,Clifden M,105.54,81.28,0.0,0.0
+Clarinb.,Clifden N,107.41,84.9,0.0,0.0
+Clarinb.,Ballynakill,121.71,83.14,0.0,0.0
+Clarinb.,Killary I,143.8,69.15,0.0,0.0
+Clarinb.,Killary M,141.19,71.44,0.0,0.0
+Clarinb.,Killary O,138.41,73.79,0.0,0.0
+Clarinb.,Clew S,162.9,80.92,0.0,0.0
+Clarinb.,Clew N,162.89,90.17,0.0,0.0
+Clarinb.,Achill S,198.03,99.21,0.0,0.0
+Clarinb.,Achill N,182.6,111.34,0.0,0.0
+Clarinb.,Blacksod,185.76,126.96,0.0,0.0
+Clarinb.,Kilalla,267.11,114.01,0.0,0.0
+Clarinb.,Sligo,302.31,125.04,0.0,0.0
+Clarinb.,Drumcliff,299.28,128.75,0.0,0.0
+Clarinb.,Donegal E,336.25,164.65,0.0,0.0
+Clarinb.,Donegal W,322.97,161.12,0.0,0.0
+Clarinb.,Gweebarra S,324.7,177.82,0.0,0.0
+Clarinb.,Gweebarra M,340.13,188.13,0.0,0.0
+Clarinb.,Gweebarra N,342.45,190.76,0.0,0.0
+Clarinb.,Dungloe,345.25,198.32,0.0,0.0
+Clarinb.,Gweedore,358.53,212.84,0.0,0.0
+Tawin,Kilkieran,57.3,47.55,0.0,0.0
+Tawin,Clifden S,102.32,75.92,0.0,0.0
+Tawin,Clifden M,103.05,78.44,0.0,0.0
+Tawin,Clifden N,104.92,82.05,0.0,0.0
+Tawin,Ballynakill,119.23,80.25,0.0,0.0
+Tawin,Killary I,141.32,66.27,0.0,0.0
+Tawin,Killary M,138.7,68.56,0.0,0.0
+Tawin,Killary O,135.93,70.91,0.0,0.0
+Tawin,Clew S,160.41,78.26,0.0,0.0
+Tawin,Clew N,160.4,87.51,0.0,0.0
+Tawin,Achill S,195.54,96.43,0.0,0.0
+Tawin,Achill N,180.11,108.64,0.0,0.0
+Tawin,Blacksod,183.27,124.29,0.0,0.0
+Tawin,Kilalla,264.62,112.15,0.0,0.0
+Tawin,Sligo,299.82,124.02,0.0,0.0
+Tawin,Drumcliff,296.79,127.65,0.0,0.0
+Tawin,Donegal E,333.76,163.81,0.0,0.0
+Tawin,Donegal W,320.48,160.07,0.0,0.0
+Tawin,Gweebarra S,322.21,176.57,0.0,0.0
+Tawin,Gweebarra M,337.64,187.01,0.0,0.0
+Tawin,Gweebarra N,339.97,189.65,0.0,0.0
+Tawin,Dungloe,342.76,197.16,0.0,0.0
+Tawin,Gweedore,356.05,211.72,0.0,0.0
+Kilkieran,Clifden S,54.76,28.83,0.0,0.0
+Kilkieran,Clifden M,55.49,31.77,0.0,0.0
+Kilkieran,Clifden N,57.37,35.72,0.0,0.0
+Kilkieran,Ballynakill,71.67,36.39,0.0,0.0
+Kilkieran,Killary I,93.76,29.9,0.0,0.0
+Kilkieran,Killary M,91.15,31.45,0.0,0.0
+Kilkieran,Killary O,88.37,33.09,0.0,0.0
+Kilkieran,Clew S,112.85,53.1,0.0,0.0
+Kilkieran,Clew N,112.84,61.04,0.0,0.0
+Kilkieran,Achill S,147.98,63.44,0.0,0.0
+Kilkieran,Achill N,132.56,78.18,0.0,0.0
+Kilkieran,Blacksod,135.71,93.76,0.0,0.0
+Kilkieran,Kilalla,217.06,104.73,0.0,0.0
+Kilkieran,Sligo,252.27,131.28,0.0,0.0
+Kilkieran,Drumcliff,249.23,133.38,0.0,0.0
+Kilkieran,Donegal E,286.21,171.87,0.0,0.0
+Kilkieran,Donegal W,272.92,164.74,0.0,0.0
+Kilkieran,Gweebarra S,274.66,177.15,0.0,0.0
+Kilkieran,Gweebarra M,290.08,189.53,0.0,0.0
+Kilkieran,Gweebarra N,292.41,192.14,0.0,0.0
+Kilkieran,Dungloe,295.2,198.6,0.0,0.0
+Kilkieran,Gweedore,308.49,213.32,0.0,0.0
+Clifden S,Clifden M,4.34,3.79,0.0,0.0
+Clifden S,Clifden N,8.69,7.91,0.0,0.0
+Clifden S,Ballynakill,26.22,14.23,0.0,0.0
+Clifden S,Killary I,48.31,25.42,0.0,0.0
+Clifden S,Killary M,45.7,24.66,0.0,0.0
+Clifden S,Killary O,42.92,23.99,0.0,0.0
+Clifden S,Clew S,67.4,48.61,0.0,0.0
+Clifden S,Clew N,67.39,53.05,0.0,0.0
+Clifden S,Achill S,102.53,48.63,0.0,0.0
+Clifden S,Achill N,87.1,63.4,0.0,0.0
+Clifden S,Blacksod,90.26,77.26,0.0,0.0
+Clifden S,Kilalla,171.61,104.09,0.0,0.0
+Clifden S,Sligo,206.82,137.46,0.0,0.0
+Clifden S,Drumcliff,203.78,138.54,0.0,0.0
+Clifden S,Donegal E,240.76,176.6,0.0,0.0
+Clifden S,Donegal W,227.47,167.74,0.0,0.0
+Clifden S,Gweebarra S,229.2,177.22,0.0,0.0
+Clifden S,Gweebarra M,244.63,190.36,0.0,0.0
+Clifden S,Gweebarra N,246.96,192.88,0.0,0.0
+Clifden S,Dungloe,249.75,198.51,0.0,0.0
+Clifden S,Gweedore,263.04,212.94,0.0,0.0
+Clifden M,Clifden N,5.31,4.19,0.0,0.0
+Clifden M,Ballynakill,22.84,11.02,0.0,0.0
+Clifden M,Killary I,44.93,24.52,0.0,0.0
+Clifden M,Killary M,42.32,23.45,0.0,0.0
+Clifden M,Killary O,39.54,22.45,0.0,0.0
+Clifden M,Clew S,64.02,46.62,0.0,0.0
+Clifden M,Clew N,64.01,50.55,0.0,0.0
+Clifden M,Achill S,99.15,45.44,0.0,0.0
+Clifden M,Achill N,83.72,60.1,0.0,0.0
+Clifden M,Blacksod,86.88,73.76,0.0,0.0
+Clifden M,Kilalla,168.23,101.98,0.0,0.0
+Clifden M,Sligo,203.44,136.02,0.0,0.0
+Clifden M,Drumcliff,200.4,136.97,0.0,0.0
+Clifden M,Donegal E,237.38,174.9,0.0,0.0
+Clifden M,Donegal W,224.09,165.86,0.0,0.0
+Clifden M,Gweebarra S,225.83,174.99,0.0,0.0
+Clifden M,Gweebarra M,241.25,188.2,0.0,0.0
+Clifden M,Gweebarra N,243.58,190.7,0.0,0.0
+Clifden M,Dungloe,246.37,196.24,0.0,0.0
+Clifden M,Gweedore,259.66,210.62,0.0,0.0
+Clifden N,Ballynakill,18.34,9.13,0.0,0.0
+Clifden N,Killary I,40.43,25.34,0.0,0.0
+Clifden N,Killary M,37.82,23.93,0.0,0.0
+Clifden N,Killary O,35.04,22.55,0.0,0.0
+Clifden N,Clew S,59.53,45.79,0.0,0.0
+Clifden N,Clew N,59.52,49.0,0.0,0.0
+Clifden N,Achill S,94.65,42.85,0.0,0.0
+Clifden N,Achill N,79.23,57.27,0.0,0.0
+Clifden N,Blacksod,82.38,70.55,0.0,0.0
+Clifden N,Kilalla,163.73,100.83,0.0,0.0
+Clifden N,Sligo,198.94,135.67,0.0,0.0
+Clifden N,Drumcliff,195.91,136.46,0.0,0.0
+Clifden N,Donegal E,232.88,174.2,0.0,0.0
+Clifden N,Donegal W,219.59,164.93,0.0,0.0
+Clifden N,Gweebarra S,221.33,173.62,0.0,0.0
+Clifden N,Gweebarra M,236.75,186.91,0.0,0.0
+Clifden N,Gweebarra N,239.08,189.39,0.0,0.0
+Clifden N,Dungloe,241.88,194.8,0.0,0.0
+Clifden N,Gweedore,255.16,209.11,0.0,0.0
+Ballynakill,Killary I,23.17,18.17,0.0,0.0
+Ballynakill,Killary M,20.56,16.33,0.0,0.0
+Ballynakill,Killary O,17.78,14.51,0.0,0.0
+Ballynakill,Clew S,42.77,36.73,0.0,0.0
+Ballynakill,Clew N,42.76,39.9,0.0,0.0
+Ballynakill,Achill S,86.7,34.44,0.0,0.0
+Ballynakill,Achill N,71.27,49.18,0.0,0.0
+Ballynakill,Blacksod,74.43,63.12,0.0,0.0
+Ballynakill,Kilalla,155.78,91.7,0.0,0.0
+Ballynakill,Sligo,190.99,126.73,0.0,0.0
+Ballynakill,Drumcliff,187.95,127.46,0.0,0.0
+Ballynakill,Donegal E,224.93,165.13,0.0,0.0
+Ballynakill,Donegal W,211.64,155.81,0.0,0.0
+Ballynakill,Gweebarra S,213.37,164.5,0.0,0.0
+Ballynakill,Gweebarra M,228.8,177.78,0.0,0.0
+Ballynakill,Gweebarra N,231.13,180.26,0.0,0.0
+Ballynakill,Dungloe,233.92,185.69,0.0,0.0
+Ballynakill,Gweedore,247.21,200.01,0.0,0.0
+Killary I,Killary M,2.73,2.32,0.0,0.0
+Killary I,Killary O,5.51,4.71,0.0,0.0
+Killary I,Clew S,45.84,25.12,0.0,0.0
+Killary I,Clew N,45.84,31.87,0.0,0.0
+Killary I,Achill S,95.41,33.69,0.0,0.0
+Killary I,Achill N,79.99,48.3,0.0,0.0
+Killary I,Blacksod,83.14,63.95,0.0,0.0
+Killary I,Kilalla,164.49,80.09,0.0,0.0
+Killary I,Sligo,199.7,112.17,0.0,0.0
+Killary I,Drumcliff,196.66,113.36,0.0,0.0
+Killary I,Donegal E,233.64,151.58,0.0,0.0
+Killary I,Donegal W,220.35,143.04,0.0,0.0
+Killary I,Gweebarra S,222.09,153.35,0.0,0.0
+Killary I,Gweebarra M,237.51,166.29,0.0,0.0
+Killary I,Gweebarra N,239.84,168.84,0.0,0.0
+Killary I,Dungloe,242.63,174.75,0.0,0.0
+Killary I,Gweedore,255.92,189.31,0.0,0.0
+Killary M,Killary O,2.9,2.39,0.0,0.0
+Killary M,Clew S,43.23,24.82,0.0,0.0
+Killary M,Clew N,43.23,31.04,0.0,0.0
+Killary M,Achill S,92.8,32.0,0.0,0.0
+Killary M,Achill N,77.37,46.74,0.0,0.0
+Killary M,Blacksod,80.53,62.3,0.0,0.0
+Killary M,Kilalla,161.88,80.11,0.0,0.0
+Killary M,Sligo,197.09,112.8,0.0,0.0
+Killary M,Drumcliff,194.05,113.9,0.0,0.0
+Killary M,Donegal E,231.03,152.03,0.0,0.0
+Killary M,Donegal W,217.74,143.33,0.0,0.0
+Killary M,Gweebarra S,219.47,153.36,0.0,0.0
+Killary M,Gweebarra M,234.9,166.37,0.0,0.0
+Killary M,Gweebarra N,237.23,168.91,0.0,0.0
+Killary M,Dungloe,240.02,174.74,0.0,0.0
+Killary M,Gweedore,253.31,189.27,0.0,0.0
+Killary O,Clew S,40.45,24.83,0.0,0.0
+Killary O,Clew N,40.45,30.43,0.0,0.0
+Killary O,Achill S,90.02,30.4,0.0,0.0
+Killary O,Achill N,74.6,45.28,0.0,0.0
+Killary O,Blacksod,77.75,60.72,0.0,0.0
+Killary O,Kilalla,159.1,80.29,0.0,0.0
+Killary O,Sligo,194.31,113.59,0.0,0.0
+Killary O,Drumcliff,191.27,114.59,0.0,0.0
+Killary O,Donegal E,228.25,152.62,0.0,0.0
+Killary O,Donegal W,214.96,143.77,0.0,0.0
+Killary O,Gweebarra S,216.7,153.51,0.0,0.0
+Killary O,Gweebarra M,232.12,166.58,0.0,0.0
+Killary O,Gweebarra N,234.45,169.11,0.0,0.0
+Killary O,Dungloe,237.25,174.86,0.0,0.0
+Killary O,Gweedore,250.53,189.35,0.0,0.0
+Clew S,Clew N,10.48,9.27,0.0,0.0
+Clew S,Achill S,90.69,20.94,0.0,0.0
+Clew S,Achill N,75.26,30.54,0.0,0.0
+Clew S,Blacksod,78.42,46.05,0.0,0.0
+Clew S,Kilalla,159.77,55.49,0.0,0.0
+Clew S,Sligo,194.97,90.13,0.0,0.0
+Clew S,Drumcliff,191.94,90.76,0.0,0.0
+Clew S,Donegal E,228.91,128.41,0.0,0.0
+Clew S,Donegal W,215.63,119.24,0.0,0.0
+Clew S,Gweebarra S,217.36,128.69,0.0,0.0
+Clew S,Gweebarra M,232.79,141.78,0.0,0.0
+Clew S,Gweebarra N,235.12,144.3,0.0,0.0
+Clew S,Dungloe,237.91,150.03,0.0,0.0
+Clew S,Gweedore,251.2,164.52,0.0,0.0
+Clew N,Achill S,85.3,14.54,0.0,0.0
+Clew N,Achill N,69.87,21.47,0.0,0.0
+Clew N,Blacksod,73.03,36.82,0.0,0.0
+Clew N,Kilalla,154.38,52.13,0.0,0.0
+Clew N,Sligo,189.58,89.39,0.0,0.0
+Clew N,Drumcliff,186.55,89.49,0.0,0.0
+Clew N,Donegal E,223.52,126.32,0.0,0.0
+Clew N,Donegal W,210.24,116.49,0.0,0.0
+Clew N,Gweebarra S,211.97,124.62,0.0,0.0
+Clew N,Gweebarra M,227.4,137.94,0.0,0.0
+Clew N,Gweebarra N,229.72,140.42,0.0,0.0
+Clew N,Dungloe,232.52,145.79,0.0,0.0
+Clew N,Gweedore,245.8,160.12,0.0,0.0
+Achill S,Achill N,16.02,15.05,0.0,0.0
+Achill S,Blacksod,32.53,30.32,0.0,0.0
+Achill S,Kilalla,126.37,62.77,0.0,0.0
+Achill S,Sligo,161.58,101.87,0.0,0.0
+Achill S,Drumcliff,158.54,101.55,0.0,0.0
+Achill S,Donegal E,195.51,137.39,0.0,0.0
+Achill S,Donegal W,182.23,126.93,0.0,0.0
+Achill S,Gweebarra S,183.96,133.37,0.0,0.0
+Achill S,Gweebarra M,199.39,146.92,0.0,0.0
+Achill S,Gweebarra N,201.72,149.31,0.0,0.0
+Achill S,Dungloe,204.51,154.17,0.0,0.0
+Achill S,Gweedore,217.8,168.18,0.0,0.0
+Achill N,Blacksod,16.62,15.89,0.0,0.0
+Achill N,Kilalla,110.94,55.47,0.0,0.0
+Achill N,Sligo,146.15,96.29,0.0,0.0
+Achill N,Drumcliff,143.11,95.26,0.0,0.0
+Achill N,Donegal E,180.09,129.24,0.0,0.0
+Achill N,Donegal W,166.8,118.06,0.0,0.0
+Achill N,Gweebarra S,168.54,122.69,0.0,0.0
+Achill N,Gweebarra M,183.96,136.36,0.0,0.0
+Achill N,Gweebarra N,186.29,138.66,0.0,0.0
+Achill N,Dungloe,189.08,143.03,0.0,0.0
+Achill N,Gweedore,202.37,156.73,0.0,0.0
+Blacksod,Kilalla,107.11,57.85,0.0,0.0
+Blacksod,Sligo,142.32,99.04,0.0,0.0
+Blacksod,Drumcliff,139.28,97.22,0.0,0.0
+Blacksod,Donegal E,176.26,128.26,0.0,0.0
+Blacksod,Donegal W,162.97,116.31,0.0,0.0
+Blacksod,Gweebarra S,164.71,118.26,0.0,0.0
+Blacksod,Gweebarra M,180.13,131.95,0.0,0.0
+Blacksod,Gweebarra N,182.46,134.09,0.0,0.0
+Blacksod,Dungloe,185.25,137.67,0.0,0.0
+Blacksod,Gweedore,198.54,150.74,0.0,0.0
+Kilalla,Sligo,46.26,41.28,0.0,0.0
+Kilalla,Drumcliff,45.13,39.86,0.0,0.0
+Kilalla,Donegal E,85.62,74.62,0.0,0.0
+Kilalla,Donegal W,72.4,64.4,0.0,0.0
+Kilalla,Gweebarra S,80.58,73.26,0.0,0.0
+Kilalla,Gweebarra M,96.11,86.29,0.0,0.0
+Kilalla,Gweebarra N,98.46,88.82,0.0,0.0
+Kilalla,Dungloe,101.35,94.66,0.0,0.0
+Kilalla,Gweedore,116.09,109.23,0.0,0.0
+Sligo,Drumcliff,7.46,5.12,0.0,0.0
+Sligo,Donegal E,60.87,40.79,0.0,0.0
+Sligo,Donegal W,47.66,36.1,0.0,0.0
+Sligo,Gweebarra S,75.97,54.15,0.0,0.0
+Sligo,Gweebarra M,91.5,63.28,0.0,0.0
+Sligo,Gweebarra N,93.85,65.89,0.0,0.0
+Sligo,Dungloe,96.74,73.66,0.0,0.0
+Sligo,Gweedore,111.47,87.99,0.0,0.0
+Drumcliff,Donegal E,57.84,38.52,0.0,0.0
+Drumcliff,Donegal W,44.63,32.48,0.0,0.0
+Drumcliff,Gweebarra S,72.94,49.73,0.0,0.0
+Drumcliff,Gweebarra M,88.46,59.39,0.0,0.0
+Drumcliff,Gweebarra N,90.82,62.02,0.0,0.0
+Drumcliff,Dungloe,93.7,69.65,0.0,0.0
+Drumcliff,Gweedore,108.44,84.11,0.0,0.0
+Donegal E,Donegal W,25.56,13.07,0.0,0.0
+Donegal E,Gweebarra S,72.72,28.71,0.0,0.0
+Donegal E,Gweebarra M,88.24,29.33,0.0,0.0
+Donegal E,Gweebarra N,90.6,31.4,0.0,0.0
+Donegal E,Dungloe,93.48,39.62,0.0,0.0
+Donegal E,Gweedore,108.22,51.9,0.0,0.0
+Donegal W,Gweebarra S,54.7,20.67,0.0,0.0
+Donegal W,Gweebarra M,70.23,27.29,0.0,0.0
+Donegal W,Gweebarra N,72.58,29.87,0.0,0.0
+Donegal W,Dungloe,75.47,37.83,0.0,0.0
+Donegal W,Gweedore,90.21,51.94,0.0,0.0
+Gweebarra S,Gweebarra M,18.35,13.71,0.0,0.0
+Gweebarra S,Gweebarra N,20.71,15.97,0.0,0.0
+Gweebarra S,Dungloe,24.07,21.46,0.0,0.0
+Gweebarra S,Gweedore,41.15,36.16,0.0,0.0
+Gweebarra M,Gweebarra N,3.3,2.64,0.0,0.0
+Gweebarra M,Dungloe,15.74,10.64,0.0,0.0
+Gweebarra M,Gweedore,33.08,24.72,0.0,0.0
+Gweebarra N,Dungloe,15.53,8.26,0.0,0.0
+Gweebarra N,Gweedore,32.87,22.1,0.0,0.0
+Dungloe,Gweedore,21.66,14.75,0.0,0.0
